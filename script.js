@@ -597,3 +597,5 @@ class UIController {
 window.addEventListener('DOMContentLoaded', () => {
     window.app = new UIController();
 });
+
+// fixed logic for system call by admin.
