@@ -47,3 +47,6 @@ Security isn't just about prevention; it's about detection.
 
 ## ⚠️ Note
 This is a **simulation**. No real files on your computer are touched. The "File System" is a JavaScript object in memory and will reset when you refresh the page (Audit Logs persist).
+
+## Changes:
+1. Made a different section for system calls.
