@@ -50,3 +50,6 @@ This is a **simulation**. No real files on your computer are touched. The "File 
 
 ## Changes:
 1. Made a different section for system calls.
+2. Added one more user.
+3. Changed name of user to standard user.
+4. changed name of admin to Superuser(root).
