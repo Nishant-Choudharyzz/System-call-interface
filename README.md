@@ -4,7 +4,7 @@ A fully browser-based, offline-capable Operating System simulation designed to t
 
 ## 🚀 How to Run
 1. simply open `index.html` in any modern web browser.
-2. No server, installation, or internet connection required
+2. No server, installation, or internet connection required.
 
 ## 🔐 Credentials
 - **Username**: `admin`
